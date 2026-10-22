@@ -1,0 +1,26 @@
+[
+  {
+    "name": "free-programming-books",
+    "owner": "EbookFoundation",
+    "description": "A collection of free learning resources for developers.",
+    "language": "HTML",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "starred_at": "2025-02-14"
+  },
+  {
+    "name": "Python",
+    "owner": "TheAlgorithms",
+    "description": "Open-source implementations of algorithms in many languages.",
+    "language": "Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "starred_at": "2025-01-28"
+  },
+  {
+    "name": "public-apis",
+    "owner": "public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "url": "https://github.com/public-apis/public-apis",
+    "starred_at": "2024-12-09"
+  }
+]
